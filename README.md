@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-* 🔭 Backend Developer focused on scalable API systems, async workflows, and backend integrations using Python, Django, FastAPI, and AWS
+* 🔭 Backend Developer focused on scalable API systems, async workflows, and backend integrations using Python, Django, FastAPI, SQL and AWS
 * 🌱 Exploring AI-assisted development workflows, scalable backend architecture, and modern system design practices
 * 👯 Open to collaborating on backend platforms, API systems, workflow automation, and Python-based tools
 * ⚙️ Interested in distributed systems, backend performance optimization, webhook reliability, and scalable integration systems
@@ -29,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge\&logo=gunicorn\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
