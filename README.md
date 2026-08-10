@@ -1,14 +1,15 @@
 # 💫 About Me:
 
-## Hi there 👋
+I'm a **Backend & AI Engineer** focused on building scalable backend systems and practical AI integrations using Python.
 
-* 🔭 Backend Developer focused on scalable API systems, async workflows, and backend integrations using Python, Django, FastAPI, SQL and AWS
-* 🌱 Exploring AI-assisted development workflows, scalable backend architecture, and modern system design practices
-* 👯 Open to collaborating on backend platforms, API systems, workflow automation, and Python-based tools
-* ⚙️ Interested in distributed systems, backend performance optimization, webhook reliability, and scalable integration systems
-* 💬 Ask me about Django REST Framework, FastAPI, PostgreSQL optimization, Redis caching, Celery workflows, API design, and AWS deployment
-* 📫 How to reach me: [official.swayam@gmail.com](mailto:official.swayam@gmail.com)
-* 🚀 Fun fact: I enjoy optimizing backend systems — reduced Google Maps API calls by ~95% using geospatial filtering and backend query optimization
+- 🔭 Building backend systems with **Python, Django, FastAPI, PostgreSQL, Celery, Redis, and AWS**
+- 🤖 Building practical AI applications using **RAG, pgvector, embeddings, LLM APIs, and Vision AI**
+- ⚙️ Interested in **system design, asynchronous processing, distributed workflows, API integrations, and reliability**
+- 🚀 Experienced with **REST APIs, webhooks, third-party integrations, background jobs, caching, and database optimization**
+- 🧠 Exploring **LLM integration, retrieval pipelines, vector search, agentic workflows, and AI application architecture**
+- 🛠️ Currently building **OpsMind AI**, a RAG-based internal knowledge assistant using FastAPI, PostgreSQL, pgvector, and Gemini
+- 💬 Ask me about **Python, Django REST Framework, FastAPI, PostgreSQL, Celery, Redis, RAG, pgvector, and backend architecture**
+- 📫 How to reach me: **official.swayam@gmail.com**
 
 ## 🌐 Socials:
 
@@ -34,6 +35,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-LLM%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflows-1C3C3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-5B5B5B?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-8A2BE2?style=for-the-badge)
+![Vision AI](https://img.shields.io/badge/Vision%20AI-Multimodal-FF6F00?style=for-the-badge)
 
 # 📊 GitHub Stats:
 
