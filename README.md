@@ -1,16 +1,13 @@
-# Swayam Siddha Panda
+## Backend & AI Engineering
 
-### Backend & AI Engineer | Python • FastAPI • Django • PostgreSQL • RAG
+I build production-oriented backend systems and practical AI applications with Python, with a focus on reliability, scalable architecture, asynchronous workflows, and grounded AI.
 
-I build production-oriented backend systems and practical AI applications with Python, with a focus on reliability, scalable architecture, and grounded AI.
-
-- 🏗️ **Backend Engineering:** Python, Django, FastAPI, PostgreSQL, Redis, Celery, AWS
-- 🤖 **AI Engineering:** RAG, embeddings, pgvector, LLM APIs, Vision AI
-- ⚙️ **Systems:** REST APIs, webhooks, asynchronous processing, background jobs, caching, integrations
-- 🧠 **Architecture:** system design, retrieval pipelines, vector search, reliability, data persistence
-- 🚀 Currently building **IncidentWeave**, an AI-powered incident investigation platform
-- 🔬 Also building **OpsMind AI**, a RAG-based internal knowledge assistant
-- 💬 Ask me about **Python, Django REST Framework, FastAPI, PostgreSQL, Celery, Redis, RAG, pgvector, and backend architecture**
+- 🏗️ **Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, AWS
+- 🤖 **AI:** RAG, embeddings, pgvector, LLM integration, Vision AI
+- ⚙️ **Systems:** REST APIs, webhooks, background processing, caching, third-party integrations
+- 🧠 **Architecture:** system design, asynchronous processing, data persistence, retrieval pipelines, vector search, reliability
+- 🔬 **Currently building:** IncidentWeave and OpsMind AI
+- 💬 **Focus areas:** Backend Engineering · AI Engineering · RAG · Distributed Workflows · System Design
 - 📫 **Contact:** official.swayam@gmail.com
 
 ---
@@ -18,14 +15,16 @@ I build production-oriented backend systems and practical AI applications with P
 ## 🚀 Current Engineering Focus
 
 ### IncidentWeave
-AI-powered incident investigation platform focused on repository-aware analysis, structured investigation workflows, and reliable backend architecture.
 
-**Focus:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · pytest · GitHub Actions
+Repository-aware AI incident investigation platform focused on structured investigation workflows, reliable backend architecture, and repository analysis.
+
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · pytest · GitHub Actions
 
 ### OpsMind AI
-RAG-based internal knowledge assistant designed to answer questions grounded in uploaded operational documents.
 
-**Focus:** FastAPI · PostgreSQL · pgvector · embeddings · Gemini · retrieval pipelines
+RAG-based internal knowledge assistant designed to answer questions grounded in uploaded operational documents rather than relying solely on general model knowledge.
+
+**Stack:** FastAPI · PostgreSQL · pgvector · embeddings · Gemini · retrieval pipelines
 
 ---
 
@@ -52,11 +51,11 @@ RAG-based internal knowledge assistant designed to answer questions grounded in 
 
 ### AI Engineering
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-8A2BE2?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini-LLM%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vision AI](https://img.shields.io/badge/Vision%20AI-Multimodal-FF6F00?style=for-the-badge)
+![Vision AI](https://img.shields.io/badge/Vision%20AI-FF6F00?style=for-the-badge)
 
 ---
 
@@ -67,14 +66,14 @@ RAG-based internal knowledge assistant designed to answer questions grounded in 
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=iamswayam&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ---
 
-### What I Build
+## What I Build
 
-**Backend systems that are reliable.  
-AI systems that are grounded.  
-Architecture that can scale.**
+**Reliable backend systems.  
+Grounded AI applications.  
+Architecture designed to scale.**
