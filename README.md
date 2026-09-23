@@ -3,11 +3,11 @@
 I build production-oriented backend systems and practical AI applications with Python, with a focus on reliability, scalable architecture, asynchronous workflows, and grounded AI.
 
 - 🏗️ **Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, AWS
-- 🤖 **AI:** RAG, embeddings, pgvector, LLM integration, Vision AI
+- 🤖 **AI:** RAG, embeddings, pgvector, LLM integration, Vision AI, AI Agents
 - ⚙️ **Systems:** REST APIs, webhooks, background processing, caching, third-party integrations
 - 🧠 **Architecture:** system design, asynchronous processing, data persistence, retrieval pipelines, vector search, reliability
 - 🔬 **Currently building:** IncidentWeave and OpsMind AI
-- 💬 **Focus areas:** Backend Engineering · AI Engineering · RAG · Distributed Workflows · System Design
+- 💬 **Focus areas:** Backend Engineering · AI Engineering · RAG · AI Agents · Distributed Workflows · System Design
 - 📫 **Contact:** official.swayam@gmail.com
 
 ---
@@ -56,6 +56,11 @@ RAG-based internal knowledge assistant designed to answer questions grounded in 
 ![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-8A2BE2?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini-LLM%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vision AI](https://img.shields.io/badge/Vision%20AI-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20AI-5B5BFF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B7280?style=for-the-badge)
 
 ---
 
