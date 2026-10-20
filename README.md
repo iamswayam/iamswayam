@@ -1,29 +1,50 @@
 <div align="center">
 
-# Swayam
+# Hi, I'm Swayam
 
-### Backend engineering · applied AI systems
+### GenAI & Backend Engineer
 
-I build Python services and evidence-grounded AI applications with an emphasis on clear system boundaries, dependable data flows, and useful developer experiences.
+I build dependable Python services and evidence-grounded AI applications - from high-volume operational APIs to retrieval workflows that keep answers connected to their source material.
 
-[LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Projects](#featured-work)
+[LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Featured work](#featured-work)
 
 </div>
 
 <br />
 
-## Focus
+## Engineering at a glance
 
-I enjoy the engineering work behind practical AI: building APIs, retrieval pipelines, and workflows that make an answer traceable to the data that supports it.
+| **EXPERIENCE**<br>3 years building backend and AI systems | **FOCUS**<br>RAG · AI workflows · reliable APIs | **FOUNDATION**<br>Python · FastAPI · Django · PostgreSQL |
+| :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: |
 
-<table>
-  <tr>
-    <td align="center" width="25%"><sub><strong>BACKEND</strong></sub><br />Python · FastAPI · Django</td>
-    <td align="center" width="25%"><sub><strong>DATA</strong></sub><br />PostgreSQL · pgvector · Redis</td>
-    <td align="center" width="25%"><sub><strong>APPLIED AI</strong></sub><br />RAG · embeddings · Gemini</td>
-    <td align="center" width="25%"><sub><strong>DELIVERY</strong></sub><br />Docker · testing · CI</td>
-  </tr>
-</table>
+<p align="center">
+  <sub><strong>APPLIED AI</strong></sub><br />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/MCP-6B7280?style=flat-square" alt="Model Context Protocol" />
+</p>
+
+<p align="center">
+  <sub><strong>BACKEND · DATA · DELIVERY</strong></sub><br />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,aws,git,githubactions&theme=dark&perline=10" alt="Python, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, AWS, Git, and GitHub Actions" />
+</p>
+
+## Recent impact
+
+- Built backend APIs and vendor-assignment workflows for a roadside-assistance platform handling **3,500+ daily cases** across **12 automotive brands**.
+- Developed a document-grounded SOP assistant that reduced agent onboarding time by **70%**.
+- Introduced an asynchronous FastAPI gateway handling **25,000+ external API calls daily**, reducing dispatch latency by **15%**.
+- Improved peak-load vendor filtering through PostgreSQL indexing and query tuning, reducing response latency by **30%**.
+
+## What I enjoy building
+
+Systems are more useful when their constraints are clear. I like designing APIs and AI workflows with explicit state, reliable data handling, and evidence that a person can inspect.
 
 ## Featured work
 
