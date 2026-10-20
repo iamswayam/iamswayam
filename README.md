@@ -1,84 +1,63 @@
-## Backend & AI Engineering
+<div align="center">
 
-I build production-oriented backend systems and practical AI applications with Python, with a focus on reliability, scalable architecture, asynchronous workflows, and grounded AI.
+# Swayam
 
-- 🏗️ **Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Redis, Celery, AWS
-- 🤖 **AI:** RAG, embeddings, pgvector, LLM integration, Vision AI, AI Agents
-- ⚙️ **Systems:** REST APIs, webhooks, background processing, caching, third-party integrations
-- 🧠 **Architecture:** system design, asynchronous processing, data persistence, retrieval pipelines, vector search, reliability
-- 🔬 **Currently building:** IncidentWeave and OpsMind AI
-- 💬 **Focus areas:** Backend Engineering · AI Engineering · RAG · AI Agents · Distributed Workflows · System Design
-- 📫 **Contact:** official.swayam@gmail.com
+### Backend engineering · applied AI systems
 
----
+I build Python services and evidence-grounded AI applications with an emphasis on clear system boundaries, dependable data flows, and useful developer experiences.
 
-## 🚀 Current Engineering Focus
+[LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Projects](#featured-work)
 
-### IncidentWeave
+</div>
 
-Repository-aware AI incident investigation platform focused on structured investigation workflows, reliable backend architecture, and repository analysis.
+<br />
 
-**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · pytest · GitHub Actions
+## Focus
 
-### OpsMind AI
+I enjoy the engineering work behind practical AI: building APIs, retrieval pipelines, and workflows that make an answer traceable to the data that supports it.
 
-RAG-based internal knowledge assistant designed to answer questions grounded in uploaded operational documents rather than relying solely on general model knowledge.
+<table>
+  <tr>
+    <td align="center" width="25%"><sub><strong>BACKEND</strong></sub><br />Python · FastAPI · Django</td>
+    <td align="center" width="25%"><sub><strong>DATA</strong></sub><br />PostgreSQL · pgvector · Redis</td>
+    <td align="center" width="25%"><sub><strong>APPLIED AI</strong></sub><br />RAG · embeddings · Gemini</td>
+    <td align="center" width="25%"><sub><strong>DELIVERY</strong></sub><br />Docker · testing · CI</td>
+  </tr>
+</table>
 
-**Stack:** FastAPI · PostgreSQL · pgvector · embeddings · Gemini · retrieval pipelines
+## Featured work
 
----
+### [IncidentWeave](https://github.com/iamswayam/incidentweave)
 
-## 🛠️ Tech Stack
+Evidence-first incident investigation for local Python repositories. It combines vector and full-text retrieval, gates on evidence sufficiency, and records an investigation audit trail before producing a grounded Gemini response.
 
-### Backend
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+### [OpsMind AI](https://github.com/iamswayam/opsmind-ai)
 
-### Data & Infrastructure
+An internal-operations copilot for retrieving answers from uploaded SOPs, logs, and incident material. It supports document-aware responses with source excerpts, multimodal retrieval, and bounded diagnostic investigations.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph` `Docker`
 
-### AI Engineering
+## How I build
 
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-8A2BE2?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-LLM%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vision AI](https://img.shields.io/badge/Vision%20AI-FF6F00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20AI-5B5BFF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B7280?style=for-the-badge)
+- **Evidence before generation** — connect AI outputs to retrievable source material and make the supporting context inspectable.
+- **Bounded, explicit workflows** — prefer clear state, guardrails, and operational limits over opaque autonomous behavior.
+- **Reliability as a feature** — invest in persistence, tests, observability, and reproducible local environments alongside product capability.
 
----
+## GitHub activity
 
-## 🔗 Connect
+<p align="center">
+  <a href="https://github.com/iamswayam">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamswayam&show_icons=true&hide_border=true&theme=transparent" alt="Swayam's GitHub statistics" />
+  </a>
+  <a href="https://github.com/iamswayam">
+    <img height="165" src="https://streak-stats.demolab.com?user=iamswayam&hide_border=true&theme=transparent" alt="Swayam's GitHub contribution streak" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamswayam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.swayam@gmail.com)
+<div align="center">
 
----
+<sub>Building dependable backend systems and applied AI products.</sub>
 
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=iamswayam&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
----
-
-## What I Build
-
-**Reliable backend systems.  
-Grounded AI applications.  
-Architecture designed to scale.**
+</div>
