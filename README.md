@@ -4,7 +4,7 @@
 
 ### GenAI & Backend Engineer
 
-I build dependable Python services and evidence-grounded AI applications - from high-volume operational APIs to retrieval workflows that keep answers connected to their source material.
+I build dependable Python services and evidence-grounded AI applications, from high-volume operational APIs to repository-aware AI systems that connect answers to verifiable source code.
 
 [LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Featured work](#featured-work)
 
@@ -14,8 +14,8 @@ I build dependable Python services and evidence-grounded AI applications - from 
 
 ## Engineering at a glance
 
-| **EXPERIENCE**<br>3 years building backend and AI systems | **FOCUS**<br>RAG · AI workflows · reliable APIs | **FOUNDATION**<br>Python · FastAPI · Django · PostgreSQL |
-| :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: |
+| **EXPERIENCE**<br>3+ years in software engineering | **FOCUS**<br>GenAI · RAG · AI workflows | **FOUNDATION**<br>Python · FastAPI · Django · PostgreSQL |
+| :------------------------------------------------: | :-------------------------------------: | :----------------------------------------------------: |
 
 <p align="center">
   <sub><strong>APPLIED AI</strong></sub><br />
@@ -41,36 +41,41 @@ I build dependable Python services and evidence-grounded AI applications - from 
 - Developed a document-grounded SOP assistant that reduced agent onboarding time by **70%**.
 - Introduced an asynchronous FastAPI gateway handling **25,000+ external API calls daily**, reducing dispatch latency by **15%**.
 - Improved peak-load vendor filtering through PostgreSQL indexing and query tuning, reducing response latency by **30%**.
-
-## What I enjoy building
-
-Systems are more useful when their constraints are clear. I like designing APIs and AI workflows with explicit state, reliable data handling, and evidence that a person can inspect.
+- Built IncidentWeave, a repository-aware RAG investigation platform. Its hybrid retrieval baseline achieved **84.8% Hit@5 and 0.6737 MRR** across **33 answerable development questions** from **3 evaluated repositories**. Qualified **7 additional Python repositories** for future evaluation, covering **100,722 non-test source lines**, **236,701 indexed Python lines**, and **5,090 estimated chunks** using the registered 60-line/10-line-overlap strategy.
 
 ## Featured work
 
-### [IncidentWeave](https://github.com/iamswayam/incidentweave) <img src="https://img.shields.io/github/stars/iamswayam/incidentweave?style=flat-square&logo=github&label=stars" alt="IncidentWeave GitHub stars" />
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/iamswayam/incidentweave">
+        <img src="https://raw.githubusercontent.com/iamswayam/incidentweave/main/docs/assets/IW-logo.png" height="34" align="middle" alt="IncidentWeave logo" />
+        &nbsp;&nbsp;<strong>IncidentWeave</strong>
+      </a>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://github.com/iamswayam/incidentweave">
+        <img src="https://img.shields.io/github/stars/iamswayam/incidentweave?style=flat-square&logo=github&label=stars" alt="IncidentWeave GitHub stars" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Evidence-first incident investigation for local Python repositories. It combines vector and full-text retrieval, gates on evidence sufficiency, and records an investigation audit trail before producing a grounded Gemini response.
+Repository-aware AI incident investigation platform that retrieves and validates code evidence before LLM generation.
 
-`Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph`
+- **Repository intelligence and hybrid retrieval:** Built Python repository ingestion and indexing, combining pgvector semantic search with PostgreSQL full-text search and Reciprocal Rank Fusion (RRF).
+- **Retrieval evaluation and optimization:** Built a reproducible evaluation harness and compared chunking strategies, BM25, PostgreSQL full-text search, test-file ranking, Gemini embedding task types, and local embedding models. Evaluated **4 chunking strategies** and benchmarked **2 open-weight Hugging Face embedding models** against Gemini using Hit@K, MRR, paired bootstrap intervals, and evidence-guard criteria.
+- **Cross-repository evaluation:** Established retrieval fixtures and smoke gates for **3 repositories**. The latest smoke run passed **14/14 answerable Hit@5 checks**. Qualified **7 further repositories** with **236,701 indexed Python lines** and **5,090 estimated chunks** for future question-set development and evaluation.
+- **Evidence-grounded investigation:** Implemented evidence-sufficiency checks, guarded Gemini-powered investigation workflows, validated citations, and persistent investigation and audit records.
+- **Multi-provider reliability:** Implemented an optional, default-off Groq generation fallback with bounded retries, provider-specific rate limits, cooldowns, structured-output validation, and provider usage telemetry.
 
-### [OpsMind AI](https://github.com/iamswayam/opsmind-ai) <img src="https://img.shields.io/github/stars/iamswayam/opsmind-ai?style=flat-square&logo=github&label=stars" alt="OpsMind AI GitHub stars" />
-
-An internal-operations copilot for retrieving answers from uploaded SOPs, logs, and incident material. It supports document-aware responses with source excerpts, multimodal retrieval, and bounded diagnostic investigations.
-
-`FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph` `Docker`
-
-## How I build
-
-- **Evidence before generation** — connect AI outputs to retrievable source material and make the supporting context inspectable.
-- **Bounded, explicit workflows** — prefer clear state, guardrails, and operational limits over opaque autonomous behavior.
-- **Reliability as a feature** — invest in persistence, tests, observability, and reproducible local environments alongside product capability.
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `Groq` `LangGraph` `MCP`
 
 ## GitHub activity
 
 <p align="center">
   <a href="https://github.com/iamswayam">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamswayam&show_icons=true&hide_border=true&theme=transparent" alt="Swayam's GitHub statistics" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=iamswayam&show_icons=true&hide_border=true&theme=transparent" alt="Swayam's GitHub statistics" />
   </a>
   <a href="https://github.com/iamswayam">
     <img height="165" src="https://streak-stats.demolab.com?user=iamswayam&hide_border=true&theme=transparent" alt="Swayam's GitHub contribution streak" />
