@@ -48,13 +48,13 @@ Systems are more useful when their constraints are clear. I like designing APIs 
 
 ## Featured work
 
-### [IncidentWeave](https://github.com/iamswayam/incidentweave)
+### [IncidentWeave](https://github.com/iamswayam/incidentweave) <img src="https://img.shields.io/github/stars/iamswayam/incidentweave?style=flat-square&logo=github&label=stars" alt="IncidentWeave GitHub stars" />
 
 Evidence-first incident investigation for local Python repositories. It combines vector and full-text retrieval, gates on evidence sufficiency, and records an investigation audit trail before producing a grounded Gemini response.
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph`
 
-### [OpsMind AI](https://github.com/iamswayam/opsmind-ai)
+### [OpsMind AI](https://github.com/iamswayam/opsmind-ai) <img src="https://img.shields.io/github/stars/iamswayam/opsmind-ai?style=flat-square&logo=github&label=stars" alt="OpsMind AI GitHub stars" />
 
 An internal-operations copilot for retrieving answers from uploaded SOPs, logs, and incident material. It supports document-aware responses with source excerpts, multimodal retrieval, and bounded diagnostic investigations.
 
@@ -70,13 +70,10 @@ An internal-operations copilot for retrieving answers from uploaded SOPs, logs, 
 
 <p align="center">
   <a href="https://github.com/iamswayam">
-    <img src="https://img.shields.io/github/followers/iamswayam?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamswayam&show_icons=true&hide_border=true&theme=transparent" alt="Swayam's GitHub statistics" />
   </a>
-  <a href="https://github.com/iamswayam/incidentweave">
-    <img src="https://img.shields.io/github/stars/iamswayam/incidentweave?label=IncidentWeave%20stars&style=flat-square&logo=github" alt="IncidentWeave GitHub stars" />
-  </a>
-  <a href="https://github.com/iamswayam/opsmind-ai">
-    <img src="https://img.shields.io/github/stars/iamswayam/opsmind-ai?label=OpsMind%20AI%20stars&style=flat-square&logo=github" alt="OpsMind AI GitHub stars" />
+  <a href="https://github.com/iamswayam">
+    <img height="165" src="https://streak-stats.demolab.com?user=iamswayam&hide_border=true&theme=transparent" alt="Swayam's GitHub contribution streak" />
   </a>
 </p>
 
