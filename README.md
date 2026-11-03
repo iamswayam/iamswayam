@@ -1,84 +1,64 @@
 <div align="center">
 
-# Hi, I'm Swayam
+# Swayam
 
 ### GenAI & Backend Engineer
 
-I build dependable Python services and evidence-grounded AI applications - from high-volume operational APIs to retrieval workflows that keep answers connected to their source material.
+I build dependable Python services and evidence-grounded AI applications—from high-volume operational APIs to retrieval workflows that keep answers connected to their source material.
 
-[LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Featured work](#featured-work)
+[LinkedIn](https://linkedin.com/in/iamswayam) · [Email](mailto:official.swayam@gmail.com) · [Selected projects](#selected-projects)
 
 </div>
 
-<br />
+---
 
-## Engineering at a glance
+## Profile
 
-| **EXPERIENCE**<br>3 years building backend and AI systems | **FOCUS**<br>RAG · AI workflows · reliable APIs | **FOUNDATION**<br>Python · FastAPI · Django · PostgreSQL |
-| :------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: |
+Backend and applied AI engineer with **3 years of experience** building production services and AI workflows. I focus on practical systems that are reliable, bounded, and clear about the evidence behind their outputs.
 
-<p align="center">
-  <sub><strong>APPLIED AI</strong></sub><br />
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="Retrieval-augmented generation" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/MCP-6B7280?style=flat-square" alt="Model Context Protocol" />
-</p>
+| Focus | Technologies |
+| --- | --- |
+| Backend engineering | Python, FastAPI, Django, PostgreSQL, MySQL, Redis |
+| Applied AI | RAG, LangChain, LangGraph, LangSmith, Claude, OpenAI, Gemini, Hugging Face, MCP |
+| Delivery | Docker, AWS, Git, GitHub Actions |
 
-<p align="center">
-  <sub><strong>BACKEND · DATA · DELIVERY</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,aws,git,githubactions&theme=dark&perline=10" alt="Python, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, AWS, Git, and GitHub Actions" />
-</p>
-
-## Recent impact
+## Selected impact
 
 - Built backend APIs and vendor-assignment workflows for a roadside-assistance platform handling **3,500+ daily cases** across **12 automotive brands**.
 - Developed a document-grounded SOP assistant that reduced agent onboarding time by **70%**.
 - Introduced an asynchronous FastAPI gateway handling **25,000+ external API calls daily**, reducing dispatch latency by **15%**.
 - Improved peak-load vendor filtering through PostgreSQL indexing and query tuning, reducing response latency by **30%**.
 
-## What I enjoy building
-
-Systems are more useful when their constraints are clear. I like designing APIs and AI workflows with explicit state, reliable data handling, and evidence that a person can inspect.
-
-## Featured work
+## Selected projects
 
 ### [IncidentWeave](https://github.com/iamswayam/incidentweave)
 
-Evidence-first incident investigation for local Python repositories. It combines vector and full-text retrieval, gates on evidence sufficiency, and records an investigation audit trail before producing a grounded Gemini response.
+Evidence-first incident investigation for local Python repositories. Combines vector and full-text retrieval, checks evidence sufficiency, and records an investigation audit trail before producing findings.
 
-`Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph`
+**Built with:** Python · FastAPI · PostgreSQL · pgvector · Gemini · LangGraph
 
 ### [OpsMind AI](https://github.com/iamswayam/opsmind-ai)
 
-An internal-operations copilot for retrieving answers from uploaded SOPs, logs, and incident material. It supports document-aware responses with source excerpts, multimodal retrieval, and bounded diagnostic investigations.
+An internal-operations copilot for retrieving answers from uploaded SOPs, logs, and incident material. Provides document-aware responses with source excerpts, multimodal retrieval, and bounded diagnostic workflows.
 
-`FastAPI` `PostgreSQL` `pgvector` `Gemini` `LangGraph` `Docker`
+**Built with:** FastAPI · PostgreSQL · pgvector · Gemini · LangGraph · Docker
 
-## How I build
+## Engineering principles
 
-- **Evidence before generation** — connect AI outputs to retrievable source material and make the supporting context inspectable.
-- **Bounded, explicit workflows** — prefer clear state, guardrails, and operational limits over opaque autonomous behavior.
-- **Reliability as a feature** — invest in persistence, tests, observability, and reproducible local environments alongside product capability.
+- **Evidence before generation:** Ground AI outputs in retrievable source material and make supporting context inspectable.
+- **Bounded workflows:** Use explicit state, guardrails, and operational limits rather than opaque autonomy.
+- **Reliability by design:** Treat persistence, testing, observability, and reproducible environments as core product features.
 
-## GitHub activity
+## GitHub
 
-<p align="center">
-  <a href="https://github.com/iamswayam">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamswayam&show_icons=true&hide_border=true&theme=transparent" alt="Swayam's GitHub statistics" />
-  </a>
-  <a href="https://github.com/iamswayam">
-    <img height="165" src="https://streak-stats.demolab.com?user=iamswayam&hide_border=true&theme=transparent" alt="Swayam's GitHub contribution streak" />
-  </a>
-</p>
+[Explore my repositories and recent work](https://github.com/iamswayam?tab=repositories) · [View my contribution activity](https://github.com/iamswayam)
+
+*I use GitHub’s native profile and contribution pages instead of third-party stats widgets, which can be unavailable or fail to load.*
+
+---
 
 <div align="center">
 
-<sub>Building dependable backend systems and applied AI products.</sub>
+Building dependable backend systems and applied AI products.
 
 </div>
