@@ -32,7 +32,7 @@ I build dependable Python services and evidence-grounded AI applications, from h
 
 <p align="center">
   <sub><strong>BACKEND · DATA · DELIVERY</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,aws,git,githubactions&theme=dark&perline=10" alt="Python, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, AWS, Git, and GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker,aws,git,githubactions&theme=dark&perline=10" alt="Python, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, AWS, Git, GitHub Actions" />
 </p>
 
 ## Recent impact
@@ -41,7 +41,7 @@ I build dependable Python services and evidence-grounded AI applications, from h
 - Developed a document-grounded SOP assistant that reduced agent onboarding time by **70%**.
 - Introduced an asynchronous FastAPI gateway handling **25,000+ external API calls daily**, reducing dispatch latency by **15%**.
 - Improved peak-load vendor filtering through PostgreSQL indexing and query tuning, reducing response latency by **30%**.
-- Built IncidentWeave, a repository-aware RAG investigation platform. Its hybrid retrieval baseline achieved **84.8% Hit@5 and 0.6737 MRR** across **33 answerable development questions** from **3 evaluated repositories**. Qualified **7 additional Python repositories** for future evaluation, covering **100,722 non-test source lines**, **236,701 indexed Python lines**, and **5,090 estimated chunks** using the registered 60-line/10-line-overlap strategy.
+- Built IncidentWeave, a repository-aware RAG investigation platform. Its hybrid retrieval baseline achieved **84.8% Hit@5 and 0.6737 MRR** across **33 answerable development questions** from **3 evaluation repositories**.
 
 ## Featured work
 
@@ -50,8 +50,8 @@ I build dependable Python services and evidence-grounded AI applications, from h
     <td valign="middle">
       <a href="https://github.com/iamswayam/incidentweave">
         <img src="https://raw.githubusercontent.com/iamswayam/incidentweave/main/docs/assets/IW-logo.png" height="34" align="middle" alt="IncidentWeave logo" />
-        &nbsp;&nbsp;<strong>IncidentWeave</strong>
       </a>
+      &nbsp;&nbsp;<a href="https://github.com/iamswayam/incidentweave"><strong>IncidentWeave</strong></a>
     </td>
     <td align="right" valign="middle">
       <a href="https://github.com/iamswayam/incidentweave">
@@ -64,10 +64,10 @@ I build dependable Python services and evidence-grounded AI applications, from h
 Repository-aware AI incident investigation platform that retrieves and validates code evidence before LLM generation.
 
 - **Repository intelligence and hybrid retrieval:** Built Python repository ingestion and indexing, combining pgvector semantic search with PostgreSQL full-text search and Reciprocal Rank Fusion (RRF).
-- **Retrieval evaluation and optimization:** Built a reproducible evaluation harness and compared chunking strategies, BM25, PostgreSQL full-text search, test-file ranking, Gemini embedding task types, and local embedding models. Evaluated **4 chunking strategies** and benchmarked **2 open-weight Hugging Face embedding models** against Gemini using Hit@K, MRR, paired bootstrap intervals, and evidence-guard criteria.
-- **Cross-repository evaluation:** Established retrieval fixtures and smoke gates for **3 repositories**. The latest smoke run passed **14/14 answerable Hit@5 checks**. Qualified **7 further repositories** with **236,701 indexed Python lines** and **5,090 estimated chunks** for future question-set development and evaluation.
+- **Retrieval evaluation and optimization:** Built a reproducible evaluation harness and compared chunking strategies, BM25, PostgreSQL full-text search, test-file ranking, Gemini embedding task types, and answerability filtering.
+- **Cross-repository evaluation:** Established retrieval fixtures and smoke gates for **3 repositories**. The latest smoke run passed **14/14 answerable Hit@5 checks**. Qualified **7 further repositories** for downstream evaluation.
 - **Evidence-grounded investigation:** Implemented evidence-sufficiency checks, guarded Gemini-powered investigation workflows, validated citations, and persistent investigation and audit records.
-- **Multi-provider reliability:** Implemented an optional, default-off Groq generation fallback with bounded retries, provider-specific rate limits, cooldowns, structured-output validation, and provider usage telemetry.
+- **Multi-provider reliability:** Implemented an optional, default-off Groq generation fallback with bounded retries, provider-specific rate limits, cooldowns, structured-output validation, and provider health monitoring.
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Gemini` `Groq` `LangGraph` `MCP`
 
