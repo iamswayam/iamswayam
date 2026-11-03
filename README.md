@@ -49,7 +49,7 @@ I build dependable Python services and evidence-grounded AI applications, from h
   <tr>
     <td valign="middle">
       <a href="https://github.com/iamswayam/incidentweave">
-        <img src="https://raw.githubusercontent.com/iamswayam/incidentweave/main/docs/assets/IW-logo.png" height="34" align="middle" alt="IncidentWeave logo" />
+        <img src="https://raw.githubusercontent.com/iamswayam/incidentweave/main/docs/assets/IW-logo.png" height="24" align="middle" alt="IncidentWeave logo" />
       </a>
       &nbsp;&nbsp;<a href="https://github.com/iamswayam/incidentweave"><strong>IncidentWeave</strong></a>
     </td>
